@@ -1,4 +1,4 @@
-![]([https://www.reddit.com/r/gaming/comments/6nb14v/dark_souls_pixel_art_gif](https://preview.redd.it/9gus5pd7tl9z.gif?width=960&format=mp4&s=4d6af37ba809faefba89742f119c59ecfb58bf56))
+![](https://www.pinterest.com/pin/411938697158395600/)
 # 💫 About Me:
 I'm currently studying at Fast University Islamabad, Pakistan👩🏻‍💻📓✍🏻💡.<br>I'm looking to collaborate in Game Dev Projects🕹️.<br>I'm looking for internship at Software Company💼.<br>I'm currently learning SQL, Operating Systems and GIT👨‍💻.<br>Ask me about Data Structures and Algorithms📊🗃️.<br>Fun Fact : I like chess♙♖♘♗♕♔.<br><br><br><br> 
 
