@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻📓✍🏻💡I'm currently studying at Fast University Islamabad, Pakistan.<br>🕹️I'm looking to collaborate in Game Dev Projects.<br>💼I'm looking for internship at Software Company.<br>👨‍💻I'm currently learning SQL, Operating Systems and GIT.<br>📊🗃️Ask me about Data Structures and Algorithms.<br>Fun Fact : I like chess♙♖♘♗♕♔.<br><br><br><br> 
+I'm currently studying at Fast University Islamabad, Pakistan👩🏻‍💻📓✍🏻💡.<br>I'm looking to collaborate in Game Dev Projects🕹️.<br>I'm looking for internship at Software Company💼.<br>I'm currently learning SQL, Operating Systems and GIT👨‍💻.<br>Ask me about Data Structures and Algorithms📊🗃️.<br>Fun Fact : I like chess♙♖♘♗♕♔.<br><br><br><br> 
 
 
 ## 🌐 Socials:
