@@ -1,6 +1,12 @@
 ![](https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif)
-# 💫 About Me:
-I'm currently studying at Fast University Islamabad, Pakistan👩🏻‍💻📓✍🏻💡.<br>I'm looking to collaborate in Game Dev Projects🕹️.<br>I'm looking for internship at Software Company💼.<br>I'm currently learning SQL, Operating Systems and GIT👨‍💻.<br>Ask me about Data Structures and Algorithms📊🗃️.
+
+# 💫 About Me:  
+I’m a **BS Software Engineering student at FAST University Islamabad, Pakistan** 👨‍💻📓.<br>
+I’m passionate about becoming a **Software Development Engineer in Test (SDET)**, building reliable, high-quality software through testing and automation 🧪🤖.<br>
+I have hands-on experience in **Full-stack Development,Software Quality Engineering (SQA), CI/CD pipelines, and automation** 🌐⚙️.<br>
+Proficient in **Web-Development,QA Automation, Algorithms Design, Version Control, CI/CD automation**, with exposure to **Cloud computing and System design** ☁️💻.<br>
+I also enjoy **Game Development**, applying my programming skills to interactive projects 🕹️.
+
 
 
 ## 🌐 Socials:
