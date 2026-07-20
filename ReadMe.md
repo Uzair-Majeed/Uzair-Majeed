@@ -78,11 +78,3 @@ I'm a **BS Software Engineering student at FAST NUCES Islamabad, Pakistan** 👨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Uzair-Majeed&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Uzair-Majeed&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Majeed&layout=compact&theme=tokyonight&hide_border=true)
