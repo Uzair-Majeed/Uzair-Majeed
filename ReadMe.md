@@ -3,7 +3,7 @@
 # 💫 About Me:  
 I’m a **BS Software Engineering student at FAST University Islamabad, Pakistan** 👨‍💻📓.<br>
 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering** 🤖🧠.<br>
-Recently completed **Andrew Ng's Machine Learning Specialization** and currently expanding my expertise in **Deep Learning with PyTorch** 📚⚡.<br>
+Currently expanding my expertise in **Deep Learning** 📚⚡.<br>
 Experienced in building **AI-powered applications, Recommendation Systems, Computer Vision models, and end-to-end Machine Learning pipelines** 🚀.<br>
 Skilled in **Python, TensorFlow, Scikit-learn, OpenCV, Git, SQL, and Full-Stack Development**, with a strong software engineering foundation 💻.<br>
 Currently exploring **LLMs, AI Agents, RAG Systems, and MLOps** to build production-ready AI applications ☁️🤖.
