@@ -2,11 +2,11 @@
 
 # 💫 About Me:  
 I’m a **BS Software Engineering student at FAST University Islamabad, Pakistan** 👨‍💻📓.<br>
-I’m passionate about becoming a **Software Development Engineer in Test (SDET)**, building reliable, high-quality software through testing and automation 🧪🤖.<br>
-I have hands-on experience in **Full-stack Development,Software Quality Engineering (SQA), CI/CD pipelines, and automation** 🌐⚙️.<br>
-Proficient in **Web-Development,QA Automation, Algorithms Design, Version Control, CI/CD automation**, with exposure to **Cloud computing and System design** ☁️💻.<br>
-I also enjoy **Game Development**, applying my programming skills to interactive projects 🕹️.
-
+Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, and AI Engineering** 🤖🧠.<br>
+Recently completed **Andrew Ng's Machine Learning Specialization** and currently expanding my expertise in **Deep Learning with PyTorch** 📚⚡.<br>
+Experienced in building **AI-powered applications, Recommendation Systems, Computer Vision models, and end-to-end Machine Learning pipelines** 🚀.<br>
+Skilled in **Python, TensorFlow, Scikit-learn, OpenCV, Git, SQL, and Full-Stack Development**, with a strong software engineering foundation 💻.<br>
+Currently exploring **LLMs, AI Agents, RAG Systems, and MLOps** to build production-ready AI applications ☁️🤖.
 
 
 ## 🌐 Socials:
@@ -14,8 +14,27 @@ I also enjoy **Game Development**, applying my programming skills to interactive
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzairmjd886@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Learning-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Uzair-Majeed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Uzair-Majeed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Majeed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
