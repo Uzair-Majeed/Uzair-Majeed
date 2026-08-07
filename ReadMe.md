@@ -15,6 +15,14 @@ I'm a **BS Software Engineering student at FAST NUCES Islamabad, Pakistan** 👨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-majeed-605611319)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairmjd886@gmail.com)
 
+### 🔗 Portfolio & Showcase
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uzair-majeed-portfolio-website.vercel.app/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/profile/uzair-majeed)
+
+* 🌐 **Portfolio Website:** [https://uzair-majeed-portfolio-website.vercel.app/](https://uzair-majeed-portfolio-website.vercel.app/)
+* 🎮 **Itch.io Profile:** [https://itch.io/profile/uzair-majeed](https://itch.io/profile/uzair-majeed)
+
 ---
 
 # 💻 Tech Stack
@@ -76,5 +84,3 @@ I'm a **BS Software Engineering student at FAST NUCES Islamabad, Pakistan** 👨
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-7B3FE4?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
